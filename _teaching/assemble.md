@@ -1,7 +1,7 @@
 ---
 title: "Makerspaces"
 collection: teaching
-type: "Workshop"
+type: "After school program"
 permalink: /teaching/assemble
 venue: "Assemble, A non-profit makerspace in Pittsburgh"
 date: 2019-04-01
