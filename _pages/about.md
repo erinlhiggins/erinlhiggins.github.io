@@ -12,6 +12,8 @@ I am a Human Centered Computing PhD student and research assistant at the Univer
 
 Organizations I have worked with
 ======
-[Digital Harbor Foundation] (https://www.digitalharbor.org/)
-[The IMPACT Project] (https://idea2impact.org/)
-[RNEL] (http://www.rnel.pitt.edu/)
+<ul>
+  <li><a href="https://www.digitalharbor.org/">Digital Harbor Foundation</a></li>
+  <li><a href="https://idea2impact.org/">The IMPACT Project</a></li>
+  <li><a href="http://www.rnel.pitt.edu/">RNEL</a></li>
+ </ul>
