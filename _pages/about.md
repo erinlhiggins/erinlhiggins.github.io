@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Human Centered Computing PhD student and research assistant at the University of Maryland, Baltimore County. I am interested in creating equitable and accessible makerspaces and observing the impact of these spaces in the community. I am also interested in using makerspaces to develop low-cost assistive technologies. I am currently working under Dr. Foad Hamidi in the [DARE Lab] (https://www.participatoryfutures.com/). 
+I am a Human Centered Computing PhD student and research assistant at the University of Maryland, Baltimore County. I am interested in creating equitable and accessible makerspaces and observing the impact of these spaces in the community. I am also interested in using makerspaces to develop low-cost assistive technologies. I am currently working under Dr. Foad Hamidi in the [DARE Lab](https://www.participatoryfutures.com/). 
 
 Organizations I have worked with
 ======
