@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Human Centered Computing PhD student and research assistant at the University of Maryland, Baltimore County. I am interested in creating equitable and accessible makerspaces and observing the impact of these spaces in the community. I am also interested in using makerspaces to develop low-cost assistive technologies. I am currently working under Dr. Foad Hamidi in the <a href="https://www.participatoryfutures.com/">DARE Lab</a>. 
+I am a Human Centered Computing PhD student and research assistant at the University of Maryland, Baltimore County. I am interested in creating equitable and accessible makerspaces and observing the impact of these spaces in the community. I am also interested in using makerspaces to develop low-cost assistive technologies. I am currently working under Dr. Foad Hamidi in the <a target="_blank" href="https://www.participatoryfutures.com/">DARE Lab</a>. 
 
 Organizations I have worked with
 ======
 <ul>
-  <li><a href="https://www.digitalharbor.org/">Digital Harbor Foundation</a></li>
-  <li><a href="https://idea2impact.org/">The IMPACT Project</a></li>
-  <li><a href="http://www.rnel.pitt.edu/">RNEL</a></li>
+  <li><a target="_blank" href="https://www.digitalharbor.org/">Digital Harbor Foundation</a></li>
+  <li><a target="_blank" href="https://idea2impact.org/">The IMPACT Project</a></li>
+  <li><a target="_blank" href="http://www.rnel.pitt.edu/">RNEL</a></li>
  </ul>
