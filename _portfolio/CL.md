@@ -1,6 +1,6 @@
 ---
 title: "Craigslist Redesign"
-excerpt: "Redesign of the Interface for Craigslist for a PhD Level Course<br/><img src='/images/CL.png'>"
+excerpt: "Redesign of the Interface for Craigslist for a PhD Level Course<br/><img src='/images/newcl.png'>"
 collection: portfolio
 ---
 
