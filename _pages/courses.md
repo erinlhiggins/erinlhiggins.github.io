@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /courses/
 title: "Courses"
 excerpt: "Courses I've taken"
 author_profile: true
