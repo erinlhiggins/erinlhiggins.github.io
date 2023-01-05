@@ -6,6 +6,8 @@ author_profile: true
 
 ---
 
+{% include base_path %}
+
 Below are the courses that I've taken from the Fall of 2021 to the Spring of 2023 when all of my course work will be completed. 
 
 Fall 2021
