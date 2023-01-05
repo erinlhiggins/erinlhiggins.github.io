@@ -1,20 +1,17 @@
 # main links links
+# main links links
 main:
   - title: "Courses"
-      url: /courses/
-      
-  - title: "Self-Assessment & Reflection"
-      url: /self/
-      
-  - title: "Papers and Projects"
-      url: /papers/
-  
-  - title: "Dissertation Plans"
-      url: /dissertation/
-      
-  - title: "CV"
-      url: /cv/
+    url: /courses/  
 
+  - title: "Self-Assessment & Reflection"
+    url: /self/    
+    
+  - title: "Papers and Projects"
+    url: /papers/
+    
+  - title: "Dissertation Plans"
+    url: /dissertation/
 # My real site! Uncomment after comps.
   #- title: "Publications"
   #  url: /publications/  
