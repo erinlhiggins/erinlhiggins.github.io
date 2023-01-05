@@ -1,11 +1,9 @@
 ---
-permalink: /courses/
+layout: archive
 title: "Courses"
-excerpt: "Courses I've taken"
+permalink: /courses/
 author_profile: true
-redirect_from: 
-  - /courses/
-  - /courses.html
+
 ---
 
 Below are the courses that I've taken from the Fall of 2021 to the Spring of 2023 when all of my course work will be completed. 
