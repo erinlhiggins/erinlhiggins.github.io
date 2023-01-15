@@ -8,38 +8,24 @@ author_profile: true
 
 {% include base_path %}
 
-Another copy and the final version to come. 
+As stated in my Self-Assessment and Reflection, I have been working in informal education for years. This has been a passion of mine that I didn't know how to integrate into my computer engineering work. Luckily, at UMBC, I have been able to do work that perfectly combines all of my interests. Following, I present how I envision my dissertation to combine my interests into one cohesive project. 
 
-Fall 2021
+Main Topic
 ======
-<ul>
-  <li>HCC 629 - Fundamentals of Human-Centered Computing - Grade: A</li>
-  <li>HCC 810 - HCC Graduate Seminar - Grade: A</li>
-  <li>HCC 801 - Independent Study for Doctoral Students - Grade: A</li>
- </ul>
+Equitable and accessible makerspace education in rec centers. Framing = design justice aligning makerspaces with social justice movements
  
- Spring 2022
+ Previous Work in this Area
 ======
-<ul>
-  <li>HCC 729 - Human-Centered Design - Grade: A</li>
-  <li>HCC 810 - HCC Graduate Seminar - Grade: A</li>
-  <li>HCC 801 - Independent Study for Doctoral Students - Grade: A</li>
-  <li>IS 804 - Adnanced Quantitative Methods in IS Research - Grade: A</li>
- </ul>
+Equity and participation in learning through making
+The role of the educator in makerspaces
+Formal assessments in informal environments
+Digital fabrication for assistive technology
  
- Fall 2022
+ My Proposed Research Questions and Methodology
 ======
-<ul>
-  <li>HCC 760 - Human-Computer Interaction - Grade: A</li>
-  <li>HCC 801 - Independent Study for Doctoral Students - Grade: A</li>
-  <li>HCC 810 - HCC Graduate Seminar - Grade: A</li>
-  <li>IS 805 - Advanced Field Research Methods - Grade: A</li>
- </ul>
+Validating my model, evaluations, and generating a toolkit for community organizations who want to do this
+Ethnography :)
  
- Spring 2022
+ Time Line
 ======
-<ul>
-  <li>EDUC 601 - Human Learning and Cognition</li>
-  <li>GRAD 601 - Graduate Assistantship</li>
-  <li>HCC 898 - Pre-candidacy Doctoral Dissertation Research</li>
- </ul>
+As I have already published two preliminary works on this topic, I am hoping to write and defend my proposal by the end of 2023. My currently proposed methodology is ethnography. Ethnography takes a long time and generates a huge amount of data. As I already have established relationships, that will not be an issue, but I am hoping to spend 6 months to 1 year working very closely with the Cherry Hill Rec Center as they establish their makerspace and programming. This means that I will not complete my data collection until winter or early spring of 2024. I am hopeful that I will then spend the bulk of 2024 analyzing my data and writing my disseration with a goal of defending in spring 2025. 
