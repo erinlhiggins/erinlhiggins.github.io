@@ -32,6 +32,6 @@ Finally, at UMBC I have been given many opportunities to participate in the HCI 
  
  The Future
 ======
-It is my hope to remain in academia after graduation. My dream would be to return to my hometown and get a full time professor position at a university in Pittsburgh. There are several great universities in that city, so I think that this is a reasonable goal. In the mean time, however, I am hoping to do an internship in industry to see what the experience would be as a PhD before I completely decide to remain in academia. 
+It is my hope to remain in academia after graduation. My dream would be to return to my hometown and get a full time professor position at a university in Pittsburgh. As there are several great universities in that city, I hope that this will be a reasonable goal. There are many other wonderful universities that I would be happy to work at if I am given the chance! In the mean time, however, I am hoping to do an internship in industry to see what the experience would be as a PhD before I completely decide to remain in academia. 
 
 It has always been my hope to someday get a PhD. All of my interests have led me directly to where I am today and no other program had such a perfect fit for me as UMBC. With any luck, I will be continue to develop community relationships and utilizing participatory design methodologies to create inclusive makerspaces and increase diversity in tech. 
