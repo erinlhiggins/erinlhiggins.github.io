@@ -62,49 +62,94 @@ As I have already published two preliminary works on this topic, I am hoping to 
 
  References
 ======
-**[1]** Jennifer Mankoff, et al. 2019. Consumer-Grade Fabrication and Its Potential to Revolutionize Accessibility. Communications of the ACM, 62(10): 64-75.</br>
-**[2]** Buehler, E., et. al. 2015. Sharing is caring: Assistive technology designs on Thingiverse. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15). ACM, New York, NY, 525-534.</br>
-**[3]** Samantha McDonald, et. al. 2016. Uncovering challenges and opportunities for 3D printing assistive technology with physical therapists. In Proceedings of the 18th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '16). ACM, New York, NY, 131-139.</br>
-**[4]** Erin Higgins, William B. Easley, Karen L. Gordes, Amy Hurst, and Foad Hamidi. 2022. Creating 3D Printed Assistive Technology Through Design Shortcuts: Leveraging Digital Fabrication Services to Incorporate 3D Printing into the Physical Therapy Classroom. In Proceedings of the 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '22). ACM, New York, NY, 1-16. </br>
-**[5]** Jeremiah Parry-Hill, Patrick C. Shih, Jennifer Mankoff, and Daniel Ashbrook. 2017. Understanding Volunteer AT Fabricators: Opportunities and Challenges in DIY-AT for Others in e-NABLE. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17). ACM, New York, NY, 6184–6194.</br>
-**[6]** Megan Hofmann, et. al. Clinical and maker perspectives on the design of assistive technology with rapid prototyping technologies. In 18th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '16). ACM, New York, NY, 6 pages. </br>
-**[7]** Karen Gordes and Sandy McCombe Waller. 2019. Novel partnerships for interprofessional education: A pilot education program in 3D technologies for human centered computing students and physical therapy students. Journal of Interprofessional Education & Practice, 15: 15-18.</br>
-**[8]** Wong-Villacres, M., DiSalvo, C., Kumar, N., DiSalvo, B. Culture in Action: Unpacking Capacities to Inform Assets-Based Design. in CHI’20: 2020 CHI Conference on Human Factors in Computing Systems. 2020. </br>
-**[9]** Chu, S.S., L., R., Quek, F., Christy, A., and Chen, K. 'I Make, Therefore I Am’: The Effects of Curriculum-Aligned Making on Children’s Self-Identity. in 2017 CHI Conference on Human Factors in Computing Systems. 2017. </br>
-**[10]** Walsh, G., Foss, E., Yip, J., Druin, A., FACIT PD: a framework for analysis and creation of intergenerational techniques for participatory design, in SIGCHI Conference on Human Factors in Computing Systems (CHI '13). 2013, Association for Computing Machinery. p. 2893-2902. </br>
-**[11]** Scaife, M., Rogers, Y., Aldrich, F., Davies, M. Designing for or designing with? Informant design for interactive learning environments. in ACM SIGCHI Conference on Human factors in computing systems (CHI '97). 1997. Association for Computing Machinery. </br>
-**[12]** Blikstein, P.K., D. The makers’ movement and FabLabs in educations: experiences, technologies, and research. in 12th International Conference on Interaction Design and Children. 2013.</br>
-**[13]** A Framework for P-12 Engineering Learning: A defined and cohesive eduactional foundation for P-12 engineering, in Advancing Excellence in P-12 Engineering Education & American Society of Engineering Education. 2020, American Society of Engineering Education.</br>
-**[14]** Forest, C.R., Moore, R. A., Jariwala, A. S., Fasse, B. B., Linsey, J., Newstetter, W., Ngo, P., and Quintero, C., The Invention Studio: A University Maker Space and Culture. Advances in Engineering Education, 2014. 4(2).</br>
-**[15]** Blikstein, P., Martinez, S. L., and Pang, H. A., Meaningful Making: Projects and Inspirations for Fab Labs and Makerspaces. 2016: Constructing Modern Knowledge Press. </br>
-**[16]** Ryoo, J.J., Kali, L., Bevan, B. Equity-Oriented Pedagogical Strategies and Student Learning in After School Making. in 6th Annual Conference on Creativity and Fabrication in Education (FabLearn '16). 2016. Association for Computing Machinery. </br>
-**[17]** Papavlasopoulou, S., M.N. Giannakos, and L. Jaccheri, Empirical studies on the Maker Movement, a promising approach to learning: A literature review. Entertainment Computing, 2017. 18: p. 57-78. </br>
-**[18]** Hamner, E.L., T., Bernstein, D., Nourbakhsh, I. R., and DiSalvo, C. F. Robot Diaries: Broadening Participation in the Computer Science Pipeline through Social Technical Exploration. in AAAI spring symposium: using AI to motivate greater participation in computer science. 2008.</br>
-**[19]** Resnick, M., and Silverman, B. Some reflections on designing construction kits for kids. in Interaction Design and Children Conference. 2005. Boulder, CO. </br>
-**[20]** Ryoo, J.J. and A.C. Barton, Equity in STEM-rich Making: Pedagogies and Designs. Equity & Excellence in Education, 2018. 51(1): p. 3-6. </br>
-**[21]** Kajamaa, A. and K. Kumpulainen, Agency in the making: analyzing students' transformative agency in a school-based makerspace. Mind Culture and Activity, 2019. 26(3): p. 266-281.</br>
-**[22]** Bevan, B., et al., Learning Through STEM-Rich Tinkering: Findings From a Jointly Negotiated Research Project Taken Up in Practice. Science Education, 2015. 99(1): p. 98-120.</br>
-**[23]** Vossoughi, S., and Gutiérrez, K., Studying movement, hybridity, and change: Toward a multi-sited sensibility for research on learning across contexts and borders. National Society for the Study of Education, 2014. 113(2): p. 603-632. </br>
-**[24]** Okerlund, J., Wilson, D., Latulipe, C., A Feminist Utopian Perspective on the Practice and Promis of Making, in CHI Conference on Human Factors in Computing Systems. 2021, Association for computing Machinery. p. 1-16.</br>
-**[25]** Rosner, D.K.F., S. E., Legacies of craft and the centrality of failure in a mother-operated hackerspace. New Media and Society, 2016. 18(4): p. 558-580.</br>
-**[26]** Vossoughi, S., P.K. Hooper, and M. Escude, Making Through the Lens of Culture and Power: Toward Transformative Visions for Educational Equity. Harvard Educational Review, 2016. 86(2): p. 206-232. </br>
-**[27]** Chachra, D., Why I am not a maker. The Atlantic, 2015. 23.</br>
-**[28]** Archer, L., et al., Changing the field: A Bourdieusian analysis of educational practices that support equitable outcomes among minoritized youth on two informal science learning programs. Sci Educ, 2021. 105(1): p. 166-203.</br>
-**[29]** Wong-Villacres, M., Jumar, A., Vishwanath, A., Karusala, N., Di Salvo, B. J., Kumar, N. Designing for Intersections. in DIS’18: 2018 Designing Interactive Systems Conference. 2018.</br>
-**[30]** Barton, A.C. and E. Tan, A Longitudinal Study of Equity-Oriented STEM-Rich Making Among Youth From Historically Marginalized Communities. American Educational Research Journal, 2018. 55(4): p. 761-800.</br>
-**[31]** Bell, P., Lewenstein, B., Shouse, A. W., & Feder, M., Diversity and Equity, in Learning Science in Informal Environments: People, Places, and Pursuits. 2009, National Research Council of the National Academies: Washington, D.C. p. 209-246.</br>
-**[32]** Principles for Equity-centered design of STEAM learning-through-making, ed. J. Castek, Schira Hagerman, M., and Woodard, R. 2019, Tuscon: University of Arizona.</br>
-**[33]** Barton, A.C., E. Tan, and D. Greenberg, The Makerspace Movement: Sites of Possibilities for Equitable Opportunities to Engage Underreptresented Youth in STEM. Teachers College Record, 2017. 119.</br>
-**[34]** Norris, A., Make-Her-Spaces as Hybrid Places: Designing and Resisting Self Constructions in Urban Classrooms. Equity & Excellence in Education, 2014. 47(1): p. 63-77.</br>
-**[35]** Jordan, S.S., et al., Results from the Implementation of Culturally-relevant Engineering Design Curriculum for the Navajo Nation and Future Directions, in American Society for Engineering Education. 2018: Salt Lake City, UT.</br>
-**[36]** DiSalvo, B., Yip, J., Bonsignore, E. and Carl, D., Participatory design for learning, in Participatory design for learning 2017, Routledge. p. 3-6.</br>
-**[37]** DiSalvo, B.a.D., K., Participatory design for value-driven learning, in Participatory Design for Learning 2017, Routledge. p. 175-188.</br>
-**[38]** Ackermann, E., Decortis, F., Hourcade, J. P., Schelhowe, H. Cultural coding and de-coding as ways of participation: digital media for marginalized young people. in 8th International Conference on Interaction Design and Children (IDC '09). 2009. Association for Computing Machinery.</br>
-**[39]** Yip, J., Clegg, T., Bonsignore, E., Gelderblom, H., Rhodes, E., Druin, A. Brownies or bags-of-stuff? domain expertise in cooperative inquiry with children. in 12th International Conference on Interaction Design and Children (IDC '13). 2013. Association for Computing Machinery.</br>
-**[40]** Clegg, T., Bonsignore, E., Yip, J., Felderblom, H., Kuhn, A., Valenstein, T., Lewittes, B., Druin, A. Technology for promoting scientific practice and personal meaning in life-relevant learning. in 11th International Conference on Interaction Design and Children (IDC '12). 2012. Association for Computing Machinery.</br>
-**[41]** Kang, S., Norooz, L., Oguamanam, V., Plane, A. C., Clegg, T. L., Froehlich, J. E. Live Physiological Sensing, Whole-Body Interaction, and Large-Screen Visualizations to Support Shared Inquiry Experiences. in The 15th International Conference on Interaction Design and Children (IDC '16). 2016. Association for Computing Machinery.</br>
-**[42]** Hamidi, F., Moulton, A., Grimes, S., & Coy, A. . Using Retrospective Surveys to Assess the Impact of Participating in an Afterschool Maker Learning Program on Youth. in ASEE Virtual Annual Conference. 2020.</br>
-**[43]** Bell, P., Lewenstein, B., Shouse, A. W., & Feder, M., Assessments, in Learning Science in Informal Environments: People, Places, and Pursuits. 2009, National Research Council of the National Academies: Washington, D.C. p. 54-89.</br>
-**[44]** Schwartz, D.L., Bransford, J.D., and Sears, D. , Efficiency and innovation in transfer, in Transfer of learning from a modern multidisciplinary perspective J.P. Mestre, Editor. 2005, Information Age: Greenwich, CT.</br>
-**[45]** Allen, S., Looking for learning in visitor talk: A methodological exploration., in Learning conversations in museums K.C. G. Leinhardt, and K. Knutson Editor. 2002, Lawrence Erlbaum Associates: Mahwah, NJ. p. 259-303.</br>
-**[46]** Merriam, S. & Tisdell, E. (2015). Qualitative Research, Fourth Edition. </br>
+**[1]** Jennifer Mankoff, et al. 2019. Consumer-Grade Fabrication and Its Potential to Revolutionize Accessibility. Communications of the ACM, 62(10): 64-75.
+
+**[2]** Buehler, E., et. al. 2015. Sharing is caring: Assistive technology designs on Thingiverse. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15). ACM, New York, NY, 525-534.
+
+**[3]** Samantha McDonald, et. al. 2016. Uncovering challenges and opportunities for 3D printing assistive technology with physical therapists. In Proceedings of the 18th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '16). ACM, New York, NY, 131-139.
+
+**[4]** Erin Higgins, William B. Easley, Karen L. Gordes, Amy Hurst, and Foad Hamidi. 2022. Creating 3D Printed Assistive Technology Through Design Shortcuts: Leveraging Digital Fabrication Services to Incorporate 3D Printing into the Physical Therapy Classroom. In Proceedings of the 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '22). ACM, New York, NY, 1-16.
+
+**[5]** Jeremiah Parry-Hill, Patrick C. Shih, Jennifer Mankoff, and Daniel Ashbrook. 2017. Understanding Volunteer AT Fabricators: Opportunities and Challenges in DIY-AT for Others in e-NABLE. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17). ACM, New York, NY, 6184–6194.
+
+**[6]** Megan Hofmann, et. al. Clinical and maker perspectives on the design of assistive technology with rapid prototyping technologies. In 18th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '16). ACM, New York, NY, 6 pages.
+
+**[7]** Karen Gordes and Sandy McCombe Waller. 2019. Novel partnerships for interprofessional education: A pilot education program in 3D technologies for human centered computing students and physical therapy students. Journal of Interprofessional Education & Practice, 15: 15-18.
+
+**[8]** Wong-Villacres, M., DiSalvo, C., Kumar, N., DiSalvo, B. Culture in Action: Unpacking Capacities to Inform Assets-Based Design. in CHI’20: 2020 CHI Conference on Human Factors in Computing Systems. 2020.
+
+**[9]** Chu, S.S., L., R., Quek, F., Christy, A., and Chen, K. 'I Make, Therefore I Am’: The Effects of Curriculum-Aligned Making on Children’s Self-Identity. in 2017 CHI Conference on Human Factors in Computing Systems. 2017.
+
+**[10]** Walsh, G., Foss, E., Yip, J., Druin, A., FACIT PD: a framework for analysis and creation of intergenerational techniques for participatory design, in SIGCHI Conference on Human Factors in Computing Systems (CHI '13). 2013, Association for Computing Machinery. p. 2893-2902.
+
+**[11]** Scaife, M., Rogers, Y., Aldrich, F., Davies, M. Designing for or designing with? Informant design for interactive learning environments. in ACM SIGCHI Conference on Human factors in computing systems (CHI '97). 1997. Association for Computing Machinery.
+
+**[12]** Blikstein, P.K., D. The makers’ movement and FabLabs in educations: experiences, technologies, and research. in 12th International Conference on Interaction Design and Children. 2013.
+
+**[13]** A Framework for P-12 Engineering Learning: A defined and cohesive eduactional foundation for P-12 engineering, in Advancing Excellence in P-12 Engineering Education & American Society of Engineering Education. 2020, American Society of Engineering Education.
+
+**[14]** Forest, C.R., Moore, R. A., Jariwala, A. S., Fasse, B. B., Linsey, J., Newstetter, W., Ngo, P., and Quintero, C., The Invention Studio: A University Maker Space and Culture. Advances in Engineering Education, 2014. 4(2).
+
+**[15]** Blikstein, P., Martinez, S. L., and Pang, H. A., Meaningful Making: Projects and Inspirations for Fab Labs and Makerspaces. 2016: Constructing Modern Knowledge Press.
+
+**[16]** Ryoo, J.J., Kali, L., Bevan, B. Equity-Oriented Pedagogical Strategies and Student Learning in After School Making. in 6th Annual Conference on Creativity and Fabrication in Education (FabLearn '16). 2016. Association for Computing Machinery.
+
+**[17]** Papavlasopoulou, S., M.N. Giannakos, and L. Jaccheri, Empirical studies on the Maker Movement, a promising approach to learning: A literature review. Entertainment Computing, 2017. 18: p. 57-78.
+
+**[18]** Hamner, E.L., T., Bernstein, D., Nourbakhsh, I. R., and DiSalvo, C. F. Robot Diaries: Broadening Participation in the Computer Science Pipeline through Social Technical Exploration. in AAAI spring symposium: using AI to motivate greater participation in computer science. 2008.
+
+**[19]** Resnick, M., and Silverman, B. Some reflections on designing construction kits for kids. in Interaction Design and Children Conference. 2005. Boulder, CO.
+
+**[20]** Ryoo, J.J. and A.C. Barton, Equity in STEM-rich Making: Pedagogies and Designs. Equity & Excellence in Education, 2018. 51(1): p. 3-6.
+
+**[21]** Kajamaa, A. and K. Kumpulainen, Agency in the making: analyzing students' transformative agency in a school-based makerspace. Mind Culture and Activity, 2019. 26(3): p. 266-281.
+
+**[22]** Bevan, B., et al., Learning Through STEM-Rich Tinkering: Findings From a Jointly Negotiated Research Project Taken Up in Practice. Science Education, 2015. 99(1): p. 98-120.
+
+**[23]** Vossoughi, S., and Gutiérrez, K., Studying movement, hybridity, and change: Toward a multi-sited sensibility for research on learning across contexts and borders. National Society for the Study of Education, 2014. 113(2): p. 603-632.
+
+**[24]** Okerlund, J., Wilson, D., Latulipe, C., A Feminist Utopian Perspective on the Practice and Promis of Making, in CHI Conference on Human Factors in Computing Systems. 2021, Association for computing Machinery. p. 1-16.
+
+**[25]** Rosner, D.K.F., S. E., Legacies of craft and the centrality of failure in a mother-operated hackerspace. New Media and Society, 2016. 18(4): p. 558-580.
+
+**[26]** Vossoughi, S., P.K. Hooper, and M. Escude, Making Through the Lens of Culture and Power: Toward Transformative Visions for Educational Equity. Harvard Educational Review, 2016. 86(2): p. 206-232.
+
+**[27]** Chachra, D., Why I am not a maker. The Atlantic, 2015. 23.
+
+**[28]** Archer, L., et al., Changing the field: A Bourdieusian analysis of educational practices that support equitable outcomes among minoritized youth on two informal science learning programs. Sci Educ, 2021. 105(1): p. 166-203.
+
+**[29]** Wong-Villacres, M., Jumar, A., Vishwanath, A., Karusala, N., Di Salvo, B. J., Kumar, N. Designing for Intersections. in DIS’18: 2018 Designing Interactive Systems Conference. 2018.
+
+**[30]** Barton, A.C. and E. Tan, A Longitudinal Study of Equity-Oriented STEM-Rich Making Among Youth From Historically Marginalized Communities. American Educational Research Journal, 2018. 55(4): p. 761-800.
+
+**[31]** Bell, P., Lewenstein, B., Shouse, A. W., & Feder, M., Diversity and Equity, in Learning Science in Informal Environments: People, Places, and Pursuits. 2009, National Research Council of the National Academies: Washington, D.C. p. 209-246.
+
+**[32]** Principles for Equity-centered design of STEAM learning-through-making, ed. J. Castek, Schira Hagerman, M., and Woodard, R. 2019, Tuscon: University of Arizona.
+
+**[33]** Barton, A.C., E. Tan, and D. Greenberg, The Makerspace Movement: Sites of Possibilities for Equitable Opportunities to Engage Underreptresented Youth in STEM. Teachers College Record, 2017. 119.
+
+**[34]** Norris, A., Make-Her-Spaces as Hybrid Places: Designing and Resisting Self Constructions in Urban Classrooms. Equity & Excellence in Education, 2014. 47(1): p. 63-77.
+
+**[35]** Jordan, S.S., et al., Results from the Implementation of Culturally-relevant Engineering Design Curriculum for the Navajo Nation and Future Directions, in American Society for Engineering Education. 2018: Salt Lake City, UT.
+
+**[36]** DiSalvo, B., Yip, J., Bonsignore, E. and Carl, D., Participatory design for learning, in Participatory design for learning 2017, Routledge. p. 3-6.
+
+**[37]** DiSalvo, B.a.D., K., Participatory design for value-driven learning, in Participatory Design for Learning 2017, Routledge. p. 175-188.
+
+**[38]** Ackermann, E., Decortis, F., Hourcade, J. P., Schelhowe, H. Cultural coding and de-coding as ways of participation: digital media for marginalized young people. in 8th International Conference on Interaction Design and Children (IDC '09). 2009. Association for Computing Machinery.
+
+**[39]** Yip, J., Clegg, T., Bonsignore, E., Gelderblom, H., Rhodes, E., Druin, A. Brownies or bags-of-stuff? domain expertise in cooperative inquiry with children. in 12th International Conference on Interaction Design and Children (IDC '13). 2013. Association for Computing Machinery.
+
+**[40]** Clegg, T., Bonsignore, E., Yip, J., Felderblom, H., Kuhn, A., Valenstein, T., Lewittes, B., Druin, A. Technology for promoting scientific practice and personal meaning in life-relevant learning. in 11th International Conference on Interaction Design and Children (IDC '12). 2012. Association for Computing Machinery.
+
+**[41]** Kang, S., Norooz, L., Oguamanam, V., Plane, A. C., Clegg, T. L., Froehlich, J. E. Live Physiological Sensing, Whole-Body Interaction, and Large-Screen Visualizations to Support Shared Inquiry Experiences. in The 15th International Conference on Interaction Design and Children (IDC '16). 2016. Association for Computing Machinery.
+
+**[42]** Hamidi, F., Moulton, A., Grimes, S., & Coy, A. . Using Retrospective Surveys to Assess the Impact of Participating in an Afterschool Maker Learning Program on Youth. in ASEE Virtual Annual Conference. 2020.
+
+**[43]** Bell, P., Lewenstein, B., Shouse, A. W., & Feder, M., Assessments, in Learning Science in Informal Environments: People, Places, and Pursuits. 2009, National Research Council of the National Academies: Washington, D.C. p. 54-89.
+
+**[44]** Schwartz, D.L., Bransford, J.D., and Sears, D. , Efficiency and innovation in transfer, in Transfer of learning from a modern multidisciplinary perspective J.P. Mestre, Editor. 2005, Information Age: Greenwich, CT.
+
+**[45]** Allen, S., Looking for learning in visitor talk: A methodological exploration., in Learning conversations in museums K.C. G. Leinhardt, and K. Knutson Editor. 2002, Lawrence Erlbaum Associates: Mahwah, NJ. p. 259-303.
+
+**[46]** Merriam, S. & Tisdell, E. (2015). Qualitative Research, Fourth Edition.
