@@ -12,7 +12,7 @@ As stated in my Self-Assessment and Reflection, I have been working in informal 
 
 Main Topic
 ======
-The focus of my dissertation will be on creating equitable and accessible makerspaces in community rec centers. The framing of work will be around design justice and aligning makerspace with the social justice movements in their surrounding communities.
+The focus of my dissertation will be on creating equitable and accessible makerspaces in community rec centers. The framing of work will be around design justice and aligning makerspace development decisions with the social justice movements in their surrounding communities.
  
  Previous Work in this Area
 ======
