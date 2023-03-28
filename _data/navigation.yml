@@ -1,26 +1,26 @@
 # main links links
 # main links links
 main:
-  - title: "Courses"
-    url: /courses/  
+ # - title: "Courses"
+ #   url: /courses/  
 
-  - title: "Self-Assessment & Reflection"
-    url: /self/    
+ # - title: "Self-Assessment & Reflection"
+ #   url: /self/    
     
-  - title: "Papers and Projects"
-    url: /papers/
+ # - title: "Papers and Projects"
+ #   url: /papers/
     
-  - title: "Dissertation Plans"
-    url: /dissertation/
-# My real site! Uncomment after comps.
-  #- title: "Publications"
-  #  url: /publications/  
+ # - title: "Dissertation Plans"
+ #   url: /dissertation/
+ 
+   - title: "Publications"
+     url: /publications/  
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+   - title: "Teaching"
+     url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
     
-  #- title: "CV"
-  #  url: /cv/
+   - title: "CV"
+     url: /cv/
