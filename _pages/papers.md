@@ -13,7 +13,7 @@ The following is a list of the papers that I have had accepted in journals and c
 Conference Publications
 ======
 <ul>
-  <li><b>E. Higgins</b>, J. Posada, S. Abler, Q. Kimble-Brown, F. Hamidi, “Investigating an Equity-based Participatory Approach to Technology-rich Learning in Community Recreation Centers”, Accepted to: ACM CHI 2023. Full citation to come.
+  <li><b>E. Higgins</b>, J. Posada, S. Abler, Q. Kimble-Brown, F. Hamidi, “Investigating an Equity-based Participatory Approach to Technology-rich Learning in Community Recreation Centers”, ACM CHI 2023. <a target="_blank" href="[https://dl.acm.org/doi/abs/10.1145/3517428.3544816](https://dl.acm.org/doi/abs/10.1145/3544548.3581567)">Link.</a>
   </li>
   <li><b>E. Higgins</b>, W.B. Easley, K. Gordes, A. Hurst, and F. Hamidi, “Creating 3D Printed Assistive Technology Through Design Shortcuts: Leveraging Digital Fabrication Services to Incorporate 3D Printing into the Physical Therapy Classroom” ASSETS 2022. <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3517428.3544816">Link.</a>
   </li>
