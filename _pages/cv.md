@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please see my CV here: <a target="_blank" href="https://drive.google.com/file/d/1nNyVXuuEk2RsZRTqfMka_icbAAakY_UB/view?usp=sharing">link</a>.
+Please see my CV here: <a target="_blank" href="https://drive.google.com/file/d/1Qx4BvygwCMT93x530CKR_VbrhRQpauYl/view?usp=sharing">link</a>.
