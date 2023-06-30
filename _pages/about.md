@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Human Centered Computing PhD student and research assistant at the University of Maryland, Baltimore County. I am interested in creating equitable and accessible makerspaces and observing the impact of these spaces in the community. I am also interested in using makerspaces to develop low-cost assistive technologies. I am currently working under Dr. Foad Hamidi in the <a target="_blank" href="https://www.participatoryfutures.com/">DARE Lab</a>. Feel free to email me at <a href="mailto:erinh2@umbc.edu">erinh2@umbc.edu</a>. 
 
-For more information, please see my <a href="https://drive.google.com/file/d/1nhhSOZKN1F-rWfIREwjBsk6LTAq1FDlA/view?usp=sharing" target="_blank">CV.</a>
+For more information, please see my <a href="https://drive.google.com/file/d/1W21oa4p1ywtCo1YXrac35DSO_YU8s74g/view?usp=sharing" target="_blank">CV.</a>
 
 
 Organizations I have worked with
