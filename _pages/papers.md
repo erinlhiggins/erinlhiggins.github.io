@@ -13,7 +13,7 @@ The following is a list of the papers that I have had accepted in journals and c
 Conference Publications
 ======
 <ul>
-  <li><b>E. Higgins</b>, Z. Oliver, and F. Hamidi, “Towards a Social Justice Aligned Makerspace: Co-designing Custom Assistive Technology within a University Ecosystem” ASSETS 2023.<a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3597638.3608393">Link.</a>.
+  <li><b>E. Higgins</b>, Z. Oliver, and F. Hamidi, “Towards a Social Justice Aligned Makerspace: Co-designing Custom Assistive Technology within a University Ecosystem” ASSETS 2023. <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3597638.3608393">Link.</a>
   </li>
   <li><b>E. Higgins</b>, J. Posada, S. Abler, Q. Kimble-Brown, F. Hamidi, “Investigating an Equity-based Participatory Approach to Technology-rich Learning in Community Recreation Centers”, ACM CHI 2023. <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3544548.3581567">Link.</a>
   </li>
