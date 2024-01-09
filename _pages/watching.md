@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<b>A Running List of TV Shows, Books, Podcasts, and Movies I listen To</b>
+<b>A Running List of TV shows, podcasts, video games, and movies I watch, listen to, or play</b>
 <br>Jan 4, 2024: What we do in the shadows (x2), Folklands podcast
 <br>Jan 5, 2024: How did this get made podcast, Folklands podcast
 <br>Jan 6, 2024: What we do in the shadows (x3)
