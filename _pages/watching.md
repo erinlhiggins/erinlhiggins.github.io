@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<b>A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I watch, listen to, or play</b>
+A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I watch, listen to, or play
+<br>
 <br>Jan 4, 2024: <b>What we do in the shadows (x2)</b>, Folklands
 <br>Jan 5, 2024: How did this get made, Folklands
 <br>Jan 6, 2024: <b>What we do in the shadows (x3)</b>
