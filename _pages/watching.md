@@ -21,4 +21,4 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Jan 14, 2024: <i>Cosmic wheel of sisterhood</i>, <b>30 Rock (x6)</b>
 <br>Jan 15, 2024: <i>Cosmic wheel of sisterhood</i>, <b>30 Rock (x15)</b>
 <br>Jan 16, 2024: Folklands, <b>30 Rock (x6)</b>
-<br>Jan 17, 2024: Las Culturistas, TV I say, with Ashley Ray
+<br>Jan 17, 2024: Las Culturistas, TV I say with Ashley Ray
