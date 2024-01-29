@@ -27,3 +27,9 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Jan 20, 2024: TV I Say with Ashley Ray, <i>Mario Kart</i>
 <br>Jan 21, 2024: <i>Spider-man 2</i>, <b>30 Rock (x3)</b>, <b>The Office (x3)</b>
 <br>Jan 22, 2024: How did this get made, <i>Spider-man 2</i>, <b>Breaking news</b>, <b>The Traitors</b>
+<br>Jan 23, 2024: How did this get made, <i>Spider-man 2</i>, <b>The Traitors</b>
+<br>Jan 24, 2024: Las Culturistas, <i>Spider-man 2</i>, <b>The Traitors</b>
+<br>Jan 24, 2024: <i>Spider-man 2</i>, <b>The Traitors</b>
+<br>Jan 26, 2024: How did this get made
+<br>Jan 27, 2024: <i>Spider-man 2</i>, <b>30 Rock (x3)</b>
+<br>Jan 28, 2024: <i>Spider-man 2</i>, <b>30 Rock (x5)</b>, <b>Ravens V. Cheifs</b>
