@@ -35,4 +35,9 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Jan 28, 2024: <i>Spider-man 2</i>, <b>30 Rock (x5)</b>, <b>Ravens V. Cheifs</b>
 <br>Jan 29, 2024: <b>30 Rock (x2)</b>
 <br>Jan 30, 2024: Las Culturistas, <i>Spider-man 2</i>, <b>Love on the Spectrum (x7)</b>, <i>Baldur's Gate 3</i>
-<br>Jan 31, 2024: Folklands, How did this get made
+<br>Jan 31, 2024: Folklands, How did this get made, <i>Baldur's Gate 3</i>, <b>The Traitors</b>
+<br>Feb 1, 2024: <i>Baldur's Gate 3</i>, <b>The Traitors</b>
+<br>Feb 2, 2024: How did this get made, <i>Baldur's Gate 3</i>
+<br>Feb 3, 2024: <b>The Traitors (x3)</b>
+<br>Feb 4, 2024: <b>30 Rock (x4)</b>, <i>Baldur's Gate 3</i>
+<br>Feb 5, 2024: Las Culturistas
