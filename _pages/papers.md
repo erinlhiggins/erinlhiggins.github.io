@@ -13,11 +13,13 @@ The following is a list of the papers that I have had accepted in journals and c
 Conference Publications
 ======
 <ul>
-  <li><b>E. Higgins</b>, Z. Oliver, and F. Hamidi, “Towards a Social Justice Aligned Makerspace: Co-designing Custom Assistive Technology within a University Ecosystem” ASSETS 2023. <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3597638.3608393">Link.</a>
+  <li>L. Stamato, H. M. Prottoy, <b>E. Higgins</b>, L. Scheifele, and F. Hamidi, “Message in a Bottle: Investigating Bioart Installations as a Transdisciplinary Means of Community Engagement”, CHI 2024. Link coming soon.
+  </li>
+  <li><b>E. Higgins</b>, Z. Oliver, and F. Hamidi, “Towards a Social Justice Aligned Makerspace: Co-designing Custom Assistive Technology within a University Ecosystem”, ASSETS 2023. <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3597638.3608393">Link.</a>
   </li>
   <li><b>E. Higgins</b>, J. Posada, S. Abler, Q. Kimble-Brown, F. Hamidi, “Investigating an Equity-based Participatory Approach to Technology-rich Learning in Community Recreation Centers”, ACM CHI 2023. <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3544548.3581567">Link.</a>
   </li>
-  <li><b>E. Higgins</b>, W.B. Easley, K. Gordes, A. Hurst, and F. Hamidi, “Creating 3D Printed Assistive Technology Through Design Shortcuts: Leveraging Digital Fabrication Services to Incorporate 3D Printing into the Physical Therapy Classroom” ASSETS 2022. <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3517428.3544816">Link.</a>
+  <li><b>E. Higgins</b>, W.B. Easley, K. Gordes, A. Hurst, and F. Hamidi, “Creating 3D Printed Assistive Technology Through Design Shortcuts: Leveraging Digital Fabrication Services to Incorporate 3D Printing into the Physical Therapy Classroom”, ASSETS 2022. <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3517428.3544816">Link.</a>
   </li>
   <li><b>E. Higgins</b>, M. Zorrilla, K.M. Murphy, M. Robertson, M.R. Goldberg, S.K. Cohen, N. Augustine, J.L. Pearlman, “Technology Transfer Activities and Productivity of NIDILRR Grantees,” Proceedings of RESNA, 2019, pp. 171-172. <a target="_blank" href="https://www.resna.org/sites/default/files/conference/2020/StudentScientificPapers/Outcomes/90Higgins.html">Link.</a>
   </li>
