@@ -40,4 +40,6 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Feb 2, 2024: How did this get made, <i>Baldur's Gate 3</i>
 <br>Feb 3, 2024: <b>The Traitors (x3)</b>
 <br>Feb 4, 2024: <b>30 Rock (x4)</b>, <i>Baldur's Gate 3</i>
-<br>Feb 5, 2024: Las Culturistas
+<br>Feb 5, 2024: Las Culturistas, <i>Baldur's Gate 3</i>, <b>30 Rock (x3)</b>
+<br>Feb 6, 2024: <i>Baludur's Gate 3</i>, <b>30 Rock (x3)</b>
+<br>Feb 7, 2024: <i>Balduur's Gate 3</i>
