@@ -42,4 +42,5 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Feb 4, 2024: <b>30 Rock (x4)</b>, <i>Baldur's Gate 3</i>
 <br>Feb 5, 2024: Las Culturistas, <i>Baldur's Gate 3</i>, <b>30 Rock (x3)</b>
 <br>Feb 6, 2024: <i>Baludur's Gate 3</i>, <b>30 Rock (x3)</b>
-<br>Feb 7, 2024: <i>Balduur's Gate 3</i>
+<br>Feb 7, 2024: <i>Balduur's Gate 3</i>, Las Culturistas, <b>30 Rock (x4)</b>
+<br>Feb 8, 2024: Las Culturistas
