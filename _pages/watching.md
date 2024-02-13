@@ -43,4 +43,9 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Feb 5, 2024: Las Culturistas, <i>Baldur's Gate 3</i>, <b>30 Rock (x3)</b>
 <br>Feb 6, 2024: <i>Baludur's Gate 3</i>, <b>30 Rock (x3)</b>
 <br>Feb 7, 2024: <i>Balduur's Gate 3</i>, Las Culturistas, <b>30 Rock (x4)</b>
-<br>Feb 8, 2024: Las Culturistas
+<br>Feb 8, 2024: Las Culturistas, How did this get made, Folklands
+<br>Feb 9, 2024: DICKS! THE MUSICAL, <b>Love on the spectrum</b>
+<br>Feb 10, 2024: <b>Great British Baking Show (x3)</b>
+<br>Feb 11, 2024: Why won't you date me, <b>Chiefs vs. 49ers</b>
+<br>Feb 12, 2024: How did this get made, <b>Gamechangers</b>, <b>The Traitors</b>
+<br>Feb 13, 2024: <b>Death and other details (x3)</b>
