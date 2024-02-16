@@ -49,3 +49,6 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Feb 11, 2024: Why won't you date me, <b>Chiefs vs. 49ers</b>
 <br>Feb 12, 2024: How did this get made, <b>Gamechangers</b>, <b>The Traitors</b>
 <br>Feb 13, 2024: <b>Death and other details (x3)</b>
+<br>Feb 14, 2024: <b>30 Rock (x3)</b>, <i>Baldur's Gate 3</i>, Las Culturistas
+<br>Feb 15, 2024: <b>30 Rock (x4)</b>, <i>Baldur's Gate 3</i>
+<br>Feb 16, 2024: <i>Baldur's Gate 3</i>
