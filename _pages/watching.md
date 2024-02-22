@@ -54,3 +54,4 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Feb 16, 2024: <i>Baldur's Gate 3</i>, <b>The Traitors</b>
 <br>Feb 17, 2024: THE HOLDOVERS, PAST LIVES
 <br>Feb 18, 2024: <b>Love is Blind (x4)</b>
+<br>Feb 19, 2024: <b>30 Rock (x4)</b>, <i>Baldur's Gate 3</i>
