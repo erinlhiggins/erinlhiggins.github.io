@@ -60,3 +60,5 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Feb 24, 2024: <i>Baldur's Gate 3</i>, DRIVE AWAY DOLLS, <b>The Traitors</b>
 <br>Feb 25, 2024: <i>Baldur's Gate 3</i>, <b>30 Rock (x4)</b>
 <br>Feb 26, 2024: <b>30 Rock (x4)</b>
+<br>Feb 27, 2024: <i>Baldur's Gate 3</i>, Las Culturistas, Folklands, <b>30 Rock (x3)</b>
+<br>Feb 28, 2024: <i>Baldur's Gate 3</i>, <b>Love is Blind (x2)</b>
