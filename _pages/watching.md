@@ -62,3 +62,7 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Feb 26, 2024: <b>30 Rock (x4)</b>
 <br>Feb 27, 2024: <i>Baldur's Gate 3</i>, Las Culturistas, Folklands, <b>30 Rock (x3)</b>
 <br>Feb 28, 2024: <i>Baldur's Gate 3</i>, <b>Love is Blind (x2)</b>
+<br>Feb 29, 2024: <i>Baldur's Gate 3</i>, <b>30 Rock (x4)</b>, <b>The Traitors</b>
+<br>March 1, 2024: <i>Baldur's Gate 3</i>, DUNE PT 2
+<br>March 2, 2024: <i>Baldur's Gate 3</i>
+<br>March 3, 2024: <i>Baldur's Gate 3</i>, <b>Abbott Elementary (x3)</b>
