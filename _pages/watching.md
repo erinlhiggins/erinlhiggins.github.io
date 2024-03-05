@@ -43,7 +43,7 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Feb 5, 2024: Las Culturistas, <i>Baldur's Gate 3</i>, <b>30 Rock (x3)</b>
 <br>Feb 6, 2024: <i>Baludur's Gate 3</i>, <b>30 Rock (x3)</b>
 <br>Feb 7, 2024: <i>Balduur's Gate 3</i>, Las Culturistas, <b>30 Rock (x4)</b>
-<br>Feb 8, 2024: Las Culturistas, How did this get made, Folklands
+<br>Feb 8, 2024: Las Culturistas, How did this get made, Folklands, <b>The Bachelor (x4)</b>
 <br>Feb 9, 2024: DICKS! THE MUSICAL, <b>Love on the spectrum</b>
 <br>Feb 10, 2024: <b>Great British Baking Show (x3)</b>
 <br>Feb 11, 2024: Why won't you date me, <b>Chiefs vs. 49ers</b>
@@ -51,7 +51,7 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Feb 13, 2024: <b>Death and other details (x3)</b>
 <br>Feb 14, 2024: <b>30 Rock (x3)</b>, <i>Baldur's Gate 3</i>, Las Culturistas
 <br>Feb 15, 2024: <b>30 Rock (x4)</b>, <i>Baldur's Gate 3</i>
-<br>Feb 16, 2024: <i>Baldur's Gate 3</i>, <b>The Traitors</b>
+<br>Feb 16, 2024: <i>Baldur's Gate 3</i>, <b>The Traitors</b>, <b>The Bachelor</b>
 <br>Feb 17, 2024: THE HOLDOVERS, PAST LIVES
 <br>Feb 18, 2024: <b>Love is Blind (x4)</b>
 <br>Feb 19, 2024: <b>30 Rock (x4)</b>, <i>Baldur's Gate 3</i>
@@ -59,10 +59,11 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>Feb 23, 2024: <i>Baldur's Gate 3</i>
 <br>Feb 24, 2024: <i>Baldur's Gate 3</i>, DRIVE AWAY DOLLS, <b>The Traitors</b>
 <br>Feb 25, 2024: <i>Baldur's Gate 3</i>, <b>30 Rock (x4)</b>
-<br>Feb 26, 2024: <b>30 Rock (x4)</b>
+<br>Feb 26, 2024: <b>30 Rock (x4)</b>, <b>The Bachelor (x2)</b>
 <br>Feb 27, 2024: <i>Baldur's Gate 3</i>, Las Culturistas, Folklands, <b>30 Rock (x3)</b>
 <br>Feb 28, 2024: <i>Baldur's Gate 3</i>, <b>Love is Blind (x2)</b>
 <br>Feb 29, 2024: <i>Baldur's Gate 3</i>, <b>30 Rock (x4)</b>, <b>The Traitors</b>
 <br>March 1, 2024: <i>Baldur's Gate 3</i>, DUNE PT 2
 <br>March 2, 2024: <i>Baldur's Gate 3</i>
 <br>March 3, 2024: <i>Baldur's Gate 3</i>, <b>Abbott Elementary (x3)</b>
+<br>March 4, 2024: <b>Abbott Elementary</b>, <b>The Bachelor</b>
