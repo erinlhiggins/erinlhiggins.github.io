@@ -70,3 +70,7 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>March 5, 2024: Folklands, Las Culturistas
 <br>March 6, 2024: <i>Baldur's Gate 3</i>, <b>Gamechangers</b>
 <br>March 7, 2024: Las Culturistas, <b>Love is Blind</b>, <i>Baldur's Gate 3</i>, <b>The Traitors</b>
+<br>March 8, 2024: How did this get made, <i>Baldur's Gate 3</i>
+<br>March 9, 2024: <i>Baldur's Gate 3</i>, ANATOMY OF A FALL
+<br>March 10, 2024: POOR THINGS, <b>The Oscars</b>
+<br>March 11, 2024: How did this get made
