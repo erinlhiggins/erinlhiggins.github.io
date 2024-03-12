@@ -73,4 +73,4 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>March 8, 2024: How did this get made, <i>Baldur's Gate 3</i>
 <br>March 9, 2024: <i>Baldur's Gate 3</i>, ANATOMY OF A FALL
 <br>March 10, 2024: POOR THINGS, <b>The Oscars</b>
-<br>March 11, 2024: How did this get made
+<br>March 11, 2024: How did this get made, <i>Baldur's Gate 3</i>, <b>Dimension 20</b>
