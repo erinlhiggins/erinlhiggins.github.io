@@ -74,3 +74,9 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>March 9, 2024: <i>Baldur's Gate 3</i>, ANATOMY OF A FALL
 <br>March 10, 2024: POOR THINGS, <b>The Oscars</b>
 <br>March 11, 2024: How did this get made, <i>Baldur's Gate 3</i>, <b>Dimension 20</b>
+<br>March 12-22, 2024: I was overwhelmed and did not track my watches. Probably Baldur's Gate and podcasts :)
+<br>March 22, 2024: <b>Survivor (x4)</b>
+<br>March 23, 2024: <b>Quiet on Set (x4)</b>, <b>Girls (x3)</b>
+<br>March 24, 2024: <i>The Sims 4</i>, Blank Check, <b>Girls (x2)</b>
+<br>March 25, 2024: <b>Girls (x2)</b>, Blank Check
+<br>March 26, 2024: Las Culturistas
