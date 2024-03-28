@@ -80,3 +80,5 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>March 24, 2024: <i>The Sims 4</i>, Blank Check, <b>Girls (x2)</b>
 <br>March 25, 2024: <b>Girls (x2)</b>, Blank Check
 <br>March 26, 2024: Las Culturistas
+<br>March 27, 2024: Las Culturistas, How did this get made
+<br>March 28, 2024: Las Culturistas
