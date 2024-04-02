@@ -82,3 +82,8 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>March 26, 2024: Las Culturistas
 <br>March 27, 2024: Las Culturistas, How did this get made
 <br>March 28, 2024: Las Culturistas
+<br>March 29, 2024: <i>The Sims 4</i>, <b>Girls (x2)</b>
+<br>March 30, 2024: <i>The Sims 4</i>, Folklands
+<br>March 31, 2024: <b>The Great British Bake Off (x3)</b>
+<br>April 1, 2024: <b>The Bachelor</b>, <b>Iowa vs. LSU (Women's College Basketball)</b>, <b>Is It Cake?</b>
+<br>April 2, 2024:
