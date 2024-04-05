@@ -86,4 +86,7 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>March 30, 2024: <i>The Sims 4</i>, Folklands
 <br>March 31, 2024: <b>The Great British Bake Off (x3)</b>
 <br>April 1, 2024: <b>The Bachelor</b>, <b>Iowa vs. LSU (Women's College Basketball)</b>, <b>Is It Cake?</b>
-<br>April 2, 2024:
+<br>April 2, 2024: <b>The Bear (x2)</b>, <b>Is It Cake? (x4)</b>
+<br>April 3, 2024: <b>The Bear (x2)</b>, <b>Survivor</b>
+<br>April 4, 2024: <b>The Bear (x2)</b>, <b>Is It Cake? (x4)</b>, Las Culturistias
+<br>April 5, 2024: <b>Is It Cake? </b>
