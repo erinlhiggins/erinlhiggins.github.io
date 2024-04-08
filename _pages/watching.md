@@ -90,3 +90,6 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>April 3, 2024: <b>The Bear (x2)</b>, <b>Survivor</b>
 <br>April 4, 2024: <b>The Bear (x2)</b>, <b>Is It Cake? (x4)</b>, Las Culturistias
 <br>April 5, 2024: <b>Is It Cake? </b>
+<br>April 6, 2024: <b>Is It Cake? </b>
+<br>April 7, 2024: <b>Is It Cake? </b>
+<br>April 8, 2024: <b>White Collar</b>, How did this get made
