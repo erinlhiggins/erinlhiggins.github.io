@@ -93,5 +93,6 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>April 6, 2024: <b>Is It Cake? </b>
 <br>April 7, 2024: <b>Is It Cake? </b>
 <br>April 8, 2024: <b>White Collar</b>, How did this get made
+<br>April 21, 2024: <i>Stardew Valley</i>, TWILIGHT: ECLIPSE
 <br>April 22, 2024: <b>Baby Reindeer (x2)</b>, <b>Gamechangers</b>
 <br>April 23, 2024: <b>Babt Reindeer (x2)</b>
