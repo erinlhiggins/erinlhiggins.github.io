@@ -95,4 +95,7 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>April 8, 2024: <b>White Collar</b>, How did this get made
 <br>April 21, 2024: <i>Stardew Valley</i>, TWILIGHT: ECLIPSE
 <br>April 22, 2024: <b>Baby Reindeer (x2)</b>, <b>Gamechangers</b>
-<br>April 23, 2024: <b>Babt Reindeer (x2)</b>
+<br>April 23, 2024: <b>Baby Reindeer (x2)</b>
+<br>May 2, 2024: <b>Survivor (x4)</b>
+<br>May 3, 2024: <i>Stardew Valley</i>
+<br>May 5, 2024: CHALLENGERS, THE IDEA OF YOU, <b>My Next Guest with David Letterman: John Mulaney</b>
