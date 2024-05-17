@@ -101,3 +101,4 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>May 5, 2024: CHALLENGERS, THE IDEA OF YOU, <b>My Next Guest with David Letterman: John Mulaney</b>
 <br>May 10, 2024: <b>Survivor</b>, <b>Everybody's in LA</b>, THE IRON CLAW
 <br>May 17, 2024: <b>Everybody's in LA (x2)</b>, <b>Bridgerton (x4)</b>, <b>Survivor</b>, MADAME WEB
+<br>May 18, 2024: Las Culturistas, How Did This Get Made
