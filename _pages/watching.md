@@ -105,6 +105,6 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>May 18, 2024: Las Culturistas, How Did This Get Made
 <br>May 19, 2024: <b>Survivor</b>
 <br>May 24, 2024: BEETLEJUICE, MEAN GIRLS: THE MUSICAL, MADAME WEB
-<br>May 25, 2024: <b>What We Do in the Shadows (x10)<b>, <b>Loot (x7)</b>, <i>Sun Haven</i>
+<br>May 25, 2024: <b>What We Do in the Shadows (x10)</b>, <b>Loot (x7)</b>, <i>Sun Haven</i>
 <br>May 26, 2024: <b>Hacks (x2)</b>
 <br>June 3, 2024: <b>Hacks (x2)</b>, <b>Gamechangers</b>, X, PEARL
