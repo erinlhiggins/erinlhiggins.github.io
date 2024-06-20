@@ -108,3 +108,5 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>May 25, 2024: <b>What We Do in the Shadows (x10)</b>, <b>Loot (x7)</b>, <i>Sun Haven</i>
 <br>May 26, 2024: <b>Hacks (x2)</b>
 <br>June 3, 2024: <b>Hacks (x2)</b>, <b>Gamechangers</b>, X, PEARL
+<br>June 18, 2024: WOLVERINE
+<br>June 19, 2024: <b>The Nanny</b>
