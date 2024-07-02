@@ -114,3 +114,10 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>June 24, 2024: <b>Sillicon Valley</b>, <b>Hacks</b>, <b>Why Didn't They Ask Evans</b>
 <br>June 23, 2024: <b>Why Didn't They Ask Evans?</b>
 <br>June 24, 2024: <b>The Bear (x2)</b>
+<br>June 25, 2024: <b>The Bear (x4)</b>
+<br>June 26, 2024: <b>The Bear (x2)</b>
+<br>June 27, 2024: <i>Baldur's Gate</i>
+<br>June 29, 2024: <b>My Lady Jane (x4)</b>
+<br>June 30, 2024: <b>My Lady Jane (x4)</b>
+<br>July 1, 2024: <b>Hacks (x2)</b>
+<br>July 2, 2024: TELL THEM YOU LOVE ME
