@@ -121,3 +121,5 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>June 30, 2024: <b>My Lady Jane (x4)</b>
 <br>July 1, 2024: <b>Hacks (x2)</b>
 <br>July 2, 2024: TELL THEM YOU LOVE ME
+<br>July 3, 2024: HITMAN
+<br>July 4, 2024: <b>Great British Baking Show (x5)</b>
