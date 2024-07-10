@@ -123,3 +123,6 @@ A Running List of <b>TV shows</b>, podcasts, <i>video games</i>, and MOVIES I wa
 <br>July 2, 2024: TELL THEM YOU LOVE ME
 <br>July 3, 2024: HITMAN
 <br>July 4, 2024: <b>Great British Baking Show (x5)</b>
+<br>July 8, 2024: <b>Perfect Match</b>, <b>Upstart Crow (x2)</b>, Las Culturistas
+<br>July 9, 2024: <b>Upstart Crow (x2)</b>, Las Culturistas
+<br>July 10, 2024: We're Here to Help
