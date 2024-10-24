@@ -13,7 +13,7 @@ The following is a list of the papers that I have had accepted in journals and c
 Conference Publications
 ======
 <ul>
-  <li><b>E. Higgins</b>, M. Sakowicz, and F. Hamidi, “An Ecosystem of Support: A U.S. State Government-Supported DIY-AT Program for Residents with Disabilities”, ASSETS 2024. Link coming soon.
+  <li><b>E. Higgins</b>, M. Sakowicz, and F. Hamidi, “An Ecosystem of Support: A U.S. State Government-Supported DIY-AT Program for Residents with Disabilities”, ASSETS 2024. <a target="_blank" href="https://dl.acm.org/doi/10.1145/3663548.3675667">Link.</a>
   </li>
   <li>L. Stamato, H. M. Prottoy, <b>E. Higgins</b>, L. Scheifele, and F. Hamidi, “Message in a Bottle: Investigating Bioart Installations as a Transdisciplinary Means of Community Engagement”, CHI 2024. <a target="_blank" href="https://dl.acm.org/doi/10.1145/3613904.3642339">Link.</a>
   </li>
