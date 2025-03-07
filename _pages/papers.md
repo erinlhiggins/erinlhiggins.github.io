@@ -30,6 +30,8 @@ Conference Publications
  Journal Publications
 ======
 <ul>
+  <li><b>E. Higgins</b>, Z. Oliver, and F. Hamidi. 2025. Supporting Campus Activism through Creating DIY-AT in a Social Justice Aligned Makerspace. ACM Trans. Access. Comput. 18, 2, Article 6 (June 2025), 25 pages. https://doi.org/10.1145/3715965 <a target="_blank" href="https://dl.acm.org/doi/10.1145/3715965">Link.</a>
+  </li>
   <li><b>E. Higgins</b>, M. Zorrilla, M. D’Innocenzo, M.R. Goldberg, S.K. Cohen, N. Augustine, J. Faieta, K. Murphy, J.L. Pearlman. (2024). Historical technology transfer activities and productivity of NIDLRR grantees. Assistive Technology, 1–13. https://doi.org/10.1080/10400435.2024.2324051 <a target="_blank" href="https://www.tandfonline.com/doi/abs/10.1080/10400435.2024.2324051">Link.</a>
   </li>
   <li><b>E. Higgins</b>, M. Zorrilla, K. M. Murphy, M. Robertson, M. R. Goldberg, S. K. Cohen, N. Augustine & J. L. Pearlman (2022) Barriers and facilitators to technology transfer of NIDILRR grantees, Disability and Rehabilitation: Assistive Technology, DOI: 10.1080/17483107.2022.2122604. <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/36136917/">Link.</a><b> 2022 BEST PAPER HONORABLE MENTION BY NARRTC.</b>
