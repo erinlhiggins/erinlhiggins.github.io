@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoc Researcher in the <a target="_blank" href="https://www.library.cmu.edu/services/evidence-synthesis">Evidence Synthesis Group</a> within CMU Libraries. I research how we can support cross disciplinary literature reviews with the support of AI tools. I am also interested in using makerspaces to develop low-cost assistive technologies and to teach youth about technology. Feel free to email me at <a href="mailto:erinhiggins@cmu.edu">erinhiggins@cmu.edu</a>. 
 
-For more information, please see my <a href="https://drive.google.com/file/d/1W21oa4p1ywtCo1YXrac35DSO_YU8s74g/view?usp=sharing" target="_blank">CV.</a>
+For more information, please see my <a href="https://drive.google.com/file/d/1tNBeq9jEc09jzPEFkb269gcSIVH1v-ci/view?usp=sharing" target="_blank">CV.</a>
 
 
 Organizations I have worked with
